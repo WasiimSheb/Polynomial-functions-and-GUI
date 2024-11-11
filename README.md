@@ -3,7 +3,6 @@
 
 ## Overview
 This Java project provides tools for working with polynomial functions, including a GUI for visualization. The repository contains two main classes:
-
 - **Ex2**: Implements various polynomial operations, such as evaluation, root finding, addition, and area calculation.
 - **Ex2_GUI**: Uses `StdDraw` to visualize two polynomials and highlight the area between them.
 
