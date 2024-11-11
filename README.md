@@ -1,7 +1,4 @@
 ---
-
-
-
 # Polynomial Functions and GUI
 
 ## Overview
