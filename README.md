@@ -1,6 +1,4 @@
----
-
-# Polynomial Functions and GUI
+## Polynomial Functions and GUI
 
 ## Overview
 This Java project provides tools for working with polynomial functions, including a GUI for visualization. The repository contains two main classes:
@@ -18,5 +16,3 @@ This Java project provides tools for working with polynomial functions, includin
 ## Dependencies
 - Java JDK 8+
 - StdDraw library for GUI visualization
-
----
