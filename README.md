@@ -1,9 +1,3 @@
-To add an image to the previous README file for the **Polynomial Functions and GUI** project, follow these steps to update it with an image.
-
-### Updated README with an Image Example
-
-Here’s how the previous README would look with an image included. Assuming you’ve added an image named `gui_screenshot.png` in an `images` folder within your repository:
-
 ---
 
 # Polynomial Functions and GUI
