@@ -1,3 +1,5 @@
+![GUI Screenshot](images/Screenshot%202024-11-11%20171903.png)
+
 # Polynomial Functions and GUI
 
 ## Overview
@@ -10,8 +12,6 @@ This Java project provides tools for working with polynomial functions, includin
 - **Root Approximation**: Recursively find roots within a range.
 - **Area Calculation**: Approximate the area between two polynomials over a range.
 - **GUI Visualization**: Plot polynomials and display information using `StdDraw`.
-
-![GUI Screenshot](images/Screenshot%202024-11-11%20171903.png)
 
 ## Dependencies
 - Java JDK 8+
