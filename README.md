@@ -1,4 +1,4 @@
-### Polynomial Functions and GUI
+# Polynomial Functions and GUI
 
 ## Overview
 This Java project provides tools for working with polynomial functions, including a GUI for visualization. The repository contains two main classes:
